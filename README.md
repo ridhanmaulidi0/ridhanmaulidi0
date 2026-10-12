@@ -8,7 +8,7 @@
 
 [Project Wardon](https://github.com/ridhanmaulidi0/project-wardon) · Sistem POS untuk bisnis F&B dengan Flutter dan Riverpod.
 
-### Lokasi perusahaan
+### Lokasi Warkop
 
 [📍 RIDHAN MAULIDI STMIK · Buka di Google Maps](https://www.google.com/maps?q=-3.3033526609150474,114.58609746948638)
 
