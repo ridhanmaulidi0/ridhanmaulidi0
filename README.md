@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:14b8a6&height=180&section=header&text=Ridhan%20Maulidi&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Header animasi Ridhan Maulidi" width="100%">
 </p>
 
-### Proyek Berjalan
+### Project Berjala
 
 [Project Wardon](https://github.com/ridhanmaulidi0/project-wardon) · Sistem POS untuk bisnis F&B dengan Flutter dan Riverpod.
 
